@@ -1,0 +1,3 @@
+CREATE SCHEMA [SSBCLOUD\Bi Administrators]
+AUTHORIZATION [SSBCLOUD\Bi Administrators]
+GO

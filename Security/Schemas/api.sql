@@ -1,0 +1,5 @@
+CREATE SCHEMA [api]
+AUTHORIZATION [dbo]
+GO
+GRANT EXECUTE ON SCHEMA:: [api] TO [db_svcLogi]
+GO
